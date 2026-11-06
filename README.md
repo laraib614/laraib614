@@ -1,5 +1,16 @@
-# 💫 About Me:
-Engineering student at The National Institute of Engineering, Mysuru (Information Science & Engineering, 2024–2028).<br><br>I build projects to learn and improve my skills through practical experience. I'm interested in Full-Stack Development, Gen-AI and building real-world software applications.<br><br>Currently, I'm working on projects such as the [Smart Trading Strategy Backtester](https://smart-trading-strategy-backtester-a.vercel.app), exploring ideas that solve practical problems through technology..<br><br>My focus right now: strengthening Data Structures & Algorithms, improving Full-Stack Development skills, learning backend architecture, and building projects that provide real-world experience.<br><br>More about me and my work at my portfolio.
+## 👋 About Me
+
+Engineering student at **The National Institute of Engineering, Mysuru** (Information Science & Engineering, 2024–2028).
+
+I build projects to learn and improve my skills through practical experience. I'm interested in **Full-Stack Development, Gen-AI, and building real-world software applications.**
+
+Currently, I'm working on **MVC**, an ongoing project focused on developing practical software solutions and gaining hands-on experience in software development.
+
+I've completed projects such as **[Smart Trading Strategy Backtester](https://smart-trading-strategy-backtester-a.vercel.app)**, a web application for backtesting and analyzing trading strategies using historical market data.
+
+My focus right now is strengthening **Data Structures & Algorithms**, improving Full-Stack Development skills, learning backend architecture, and building projects that provide real-world experience.
+
+More about me and my work at my portfolio.
 
 
 # 💻 Tech Stack:
