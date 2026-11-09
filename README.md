@@ -32,6 +32,6 @@ More about me and my work at my portfolio.
 
 # 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=muhammad-laraib-jamal&theme=dark&hide_border=true&timezone=Asia%2FKolkata&disable_animations=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=laraib614&theme=dark&hide_border=true&timezone=Asia%2FKolkata&disable_animations=true)
 
 
